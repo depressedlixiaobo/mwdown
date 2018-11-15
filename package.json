@@ -1,0 +1,19 @@
+{
+  "name": "mwDown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.9"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "qrcode": "^1.3.2"
+  }
+}
